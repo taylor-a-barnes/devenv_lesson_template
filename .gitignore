@@ -35,3 +35,7 @@
 .code-server/code-server.log
 .interface.ps1
 .interface.sh
+
+# CMake build directories
+/obj
+/build
